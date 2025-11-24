@@ -1,0 +1,4 @@
+atividades nessa pasta:
+#1 -- identificar numero negativo positivo ou neutro.
+#2 -- identificar se está acima ou abaixo do salario minimo.
+#3 -- fahrenheit pra graus.
